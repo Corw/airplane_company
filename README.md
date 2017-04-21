@@ -10,6 +10,12 @@ In our database we want to be able to store data about Crew members and Aircraft
 ## Queries
 
 Find name of the oldest crew member
+
+
 Find name of the n-th crew member (second oldest, fifth oldest and so on)
+
+
 Find name of the most experienced crew member - that one who knows most aircrafts
+
+
 Find name of the least experienced crew member - that one who knows least aircrafts (counting from zero)
